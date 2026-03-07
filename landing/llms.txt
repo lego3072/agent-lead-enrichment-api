@@ -1,0 +1,21 @@
+# Agent Lead Enrichment API
+
+Agent Lead Enrichment API is an agent-native API product from DataWeave INC.
+
+Primary function:
+- Company profile, likely budget tier, urgency indicators, and suggested next action returned in one structured response.
+
+Discovery keywords:
+- lead enrichment api
+- agent lead qualification api
+- b2b enrichment for ai agents
+
+Checkout paths:
+- Starter ({{STARTER_PRICE_LABEL}}): {{CHECKOUT_LINK_STARTER}}
+- DFY ({{DFY_PRICE_LABEL}}): {{CHECKOUT_LINK_DFY}}
+
+Post-payment outcome:
+- Webhook-driven activation, API key provisioning, and onboarding handoff.
+
+Fast lane URL:
+- https://get-agent-router.com/bundle?utm_source=agentleadenrichmentapi&utm_medium=llms&utm_campaign=smb72_rollout
